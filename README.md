@@ -1,4 +1,5 @@
-# Khadajhin-4.github.io
+# SOEN 357 MINI PROJECT
 
 theme: jekyll-theme-cayman
+
 CONTENT, WEBSITE CONTENT
